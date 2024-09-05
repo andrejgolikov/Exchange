@@ -7,3 +7,5 @@ https://learn.microsoft.com/en-us/windows/wsl/install-manual
 MS Visual Studio 2022 Community - Last Version - https://drive.google.com/file/d/1yGnRuvQIh4dxDJwdjNiYPrzdRcArUsZo/view?usp=sharing
 
 7z - https://disk.yandex.ru/d/vtVtV54d2U8whA
+
+Dapper docs - https://github.com/zzzprojects/awesome-dapper
