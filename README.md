@@ -8,6 +8,6 @@ MS Visual Studio 2022 Community - Last Version - https://drive.google.com/file/d
 
 BackgroundTasksService:
 https://disk.yandex.ru/d/B0W77Z1qx6f4Og - WorkDir
-https://disk.yandex.ru/d/lDUdK7gBj0cFKQ - 06.09
+[https://disk.yandex.ru/d/lDUdK7gBj0cFKQ](https://disk.yandex.ru/d/7VZxu5VVC_aC_Q) - 13.09
 
 Dapper docs - https://github.com/zzzprojects/awesome-dapper
