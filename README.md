@@ -4,7 +4,7 @@ https://disk.yandex.ru/d/GQs1WAGs3QcKMw
 
 https://learn.microsoft.com/en-us/windows/wsl/install-manual
 
-MS Visual Studio 2022 Community - Last Version - https://drive.google.com/file/d/1yGnRuvQIh4dxDJwdjNiYPrzdRcArUsZo/view?usp=sharing
+MS Visual Studio 2022 Community - Last Version - https://disk.yandex.ru/d/CR79QNUqoXVW8g
 
 BackgroundTasksService:
 https://disk.yandex.ru/d/B0W77Z1qx6f4Og - WorkDir
