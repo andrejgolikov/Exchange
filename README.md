@@ -13,3 +13,5 @@ https://disk.yandex.ru/d/B0W77Z1qx6f4Og - WorkDir
 Dapper docs - https://github.com/zzzprojects/awesome-dapper
 
 Exchange - 18.09.2024 - https://disk.yandex.ru/d/KyFc1I_RUYWvGQ
+
+Environmets - https://disk.yandex.ru/d/JiY8o-0tNnoHiQ
